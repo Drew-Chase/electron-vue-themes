@@ -1,8 +1,4 @@
-<p align="center">
-  <br>
-    <img src="https://raw.githubusercontent.com/icao/electron-vue/master/assets/banner_electron_vue.png" alt="logo" width="100%">
-  <br>
-</p>
+![](https://raw.githubusercontent.com/icao/electron-vue/master/assets/banner_electron_vue.png)
 
 # 🖖 Electron Vue
 
