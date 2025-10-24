@@ -1,0 +1,7 @@
+id = "electron-vue-theme"
+name = "Electron Vue Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Drew Chase <drew-chase@github.com>"]
+description = "My cool extension"
+repository = "https://github.com/drew-chase/electron-vue"
