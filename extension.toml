@@ -6,3 +6,4 @@ authors = ["Drew Chase <drew-chase@github.com>"]
 description = "My cool extension"
 repository = "https://github.com/drew-chase/electron-vue"
 themes = ["themes/electron-vue-theme.json"]
+license = "MIT"
